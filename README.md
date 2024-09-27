@@ -14,4 +14,3 @@ Key steps include:
 3. Building an autoregression model to forecast PM 2.5 levels.
 4. Enhancing the model’s performance by fine-tuning its hyperparameters to achieve more accurate predictions.
 
-This project will provide insights into the factors influencing air quality fluctuations in Nairobi and offer a predictive tool to help monitor and manage air pollution.
